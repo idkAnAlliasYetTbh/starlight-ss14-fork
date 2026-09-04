@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "license": "CC-BY-NC-SA-4.0",
+    "copyright": "State based copyright.",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "icon",
+			"copyright": "Sprite by LinkUyx#6557, re-skin of icon sprite by FlameyTheRandom"
+			
+        },
+        {
+            "name": "equipped-HELMET",
+			"copyright": "Inhand and helmet sprites by TiniestShark (github), re-skin of in-hand sprites by FlameyTheRandom",
+            "directions": 4
+        },
+        {
+            "name": "equipped-HELMET-vox",
+			"copyright": "Inhand and helmet sprites by TiniestShark (github), re-skin of in-hand sprites by FlameyTheRandom",
+            "directions": 4
+        },
+        {
+            "name": "inhand-left",
+			"copyright": "Inhand and helmet sprites by TiniestShark (github), re-skin of in-hand sprites by FlameyTheRandom",
+            "directions": 4
+        },
+        {
+            "name": "inhand-right",
+			"copyright": "Inhand and helmet sprites by TiniestShark (github), re-skin of in-hand sprites by FlameyTheRandom",
+            "directions": 4
+        }
+    ]
+}

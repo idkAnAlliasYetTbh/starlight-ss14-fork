@@ -270,9 +270,9 @@
   #     path: /Audio/Voice/Vox/shriek1.ogg
   #     params:
   #       volume: -5
-  # - type: FoodSequenceElement
-  #   entries:
-  #     CottonBurger: VoxPlushie
+  - type: FoodSequenceElement
+    entries:
+      CottonBurger: VoxPlushie
 
 # Vulpkanin
 - type: entity

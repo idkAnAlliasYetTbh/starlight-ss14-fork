@@ -170,7 +170,7 @@
 
 - type: entity
   parent: BaseVoxPlushie
-  id: PlushieHrek
+  id: PlushieHrek # FlameyTheRandom
   name: hrekrativi plushie
   description: Now 10% less miserable, and unlike the real thing, this one doesn't need nitrogen! #Flavor text is subject to change
   components:
